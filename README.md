@@ -1,2 +1,4 @@
-# Calculator
-Calculator on PyQt5
+#Команды компиляции
+```shell
+pyuic5 .\main_window.ui -o main_win.py
+```
